@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 🌱 
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucia06mb@gmail.com) 
 
@@ -12,11 +11,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=luciaamaeso&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luciaamaeso&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luciaamaeso&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=luciaamaeso&limit=5&theme=dark&combine_all_yearly_contributions=true)
